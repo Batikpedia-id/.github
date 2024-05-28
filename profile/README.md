@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><b>Batikpedia.Id</b></h1>
+  <h1 align="center"><b>Batikpedia.id</b></h1>
 </p>
 
 # Team Details
