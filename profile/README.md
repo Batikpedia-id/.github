@@ -2,6 +2,10 @@
   <h1 align="center"><b>Batikpedia.id</b></h1>
 </p>
 
+<p align="center">
+  <img src="images/Logo Batikpedia.png" alt="Batikpedia Logo" width="400px">
+</p>
+
 Batikpedia aims to preserve and promote batik culture by developing a mobile application that can classify different batik patterns, provide historical information, and connect users with local SMEs selling these patterns. Users can upload images of batik fabrics, which are then analyzed using advanced computer vision and machine learning techniques.
 
 # Team Details
