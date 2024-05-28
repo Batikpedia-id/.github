@@ -8,6 +8,19 @@
 
 Batikpedia aims to preserve and promote batik culture by developing a mobile application that can classify different batik patterns, provide historical information, and connect users with local SMEs selling these patterns. Users can upload images of batik fabrics, which are then analyzed using advanced computer vision and machine learning techniques.
 
+We have implemented several features in this application. These features include:
+
+- Analyze :
+<br /> Users can Identify Batik Patern simply by using a camera to snap a photo of their Batik.
+
+- Learn :
+<br /> Users can search and learn more about the history of various type of Batik, including its original provenance and other interesting details.
+
+- Favourite :
+<br /> Users have the option to add their favorite Batik Patterns for easy access or future use.
+
+<br>
+
 # Team Details
 
 ### Team ID: C241-PS245
