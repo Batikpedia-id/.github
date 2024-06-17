@@ -6,7 +6,7 @@
   <img src="https://github.com/Batikpedia-id/.github/blob/main/profile/images/LogoRemove.png" alt="Batikpedia Logo" width="400px">
 </p>
 
-Batikpedia aims to preserve and promote batik culture by developing a mobile application that can classify different batik patterns, provide historical information, and connect users with local SMEs selling these patterns. Users can upload images of batik fabrics, which are then analyzed using advanced computer vision and machine learning techniques.
+Batikpedia aims to bridge these gaps by using mobile development, machine learning, and cloud computing to educate users, promote Batik SMEs, and enhance the shopping experience with augmented reality features. This project focuses on developing a mobile application that can classify Batik patterns, provide historical information, and support SMEs, thereby making Batik culture accessible and engaging for a global audience.
 
 We have implemented several features in this application. These features include:
 
