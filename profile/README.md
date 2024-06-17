@@ -16,9 +16,6 @@ We have implemented several features in this application. These features include
 - Learn :
 <br /> Users can search and learn more about the history of various type of Batik, including its original provenance and other interesting details.
 
-- Favourite :
-<br /> Users have the option to add their favorite Batik Patterns for easy access or future use.
-
 <br>
 
 # Team Details
