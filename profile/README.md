@@ -50,4 +50,4 @@ We have implemented several features in this application. These features include
 
 # Documentation
 ## Mobile Development
-For our Mobile Development documentation, [click here](https://github.com/Pupuk-In/Mobile-Development#readme)
+For our Mobile Development documentation, [click here](https://github.com/Batikpedia-id/batikpedia-mobdev#readme)
