@@ -51,3 +51,7 @@ We have implemented several features in this application. These features include
 # Documentation
 ## Mobile Development
 For our Mobile Development documentation, [click here](https://github.com/Batikpedia-id/batikpedia-mobdev#readme)
+## Machine Learning
+For our Machine Learning documentation, [click here](https://github.com/Batikpedia-id/batikpedia-ml#readme)
+## Cloud Computing
+For our Cloud Computing documentation, [click here](https://github.com/Batikpedia-id/batikpedia-backend#readme)
