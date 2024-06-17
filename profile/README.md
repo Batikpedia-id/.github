@@ -31,3 +31,23 @@ We have implemented several features in this application. These features include
 | Fauzan Evan Saputra                | A009D4KY3686     | Mobile Development       |
 | Faizal Husain Adiasha              | C200D4KY0460     | Cloud Computing          |
 | Faris Fadhlurrahman                | C009D4KY0271     | Cloud Computing          |
+
+# Resource Used
+- <b> Mobile Development: </b>
+  - [Kotlin](https://kotlinlang.org/)
+  - [Retrofit2](https://kotlinlang.org/)
+  - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+  - [GSON](https://github.com/google/gson)
+  - [GSON Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)
+  - [OkHttp3](https://square.github.io/okhttp/)
+  - [Fragment](https://developer.android.com/guide/fragments?hl=id)
+  - [Figma](https://www.figma.com/)
+  - [Postman](https://www.postman.com/)
+- <b> Machine Learning: </b>
+  - Tes
+- - <b> Cloud & Backend: </b>
+  - Tes
+
+# Documentation
+## Mobile Development
+For our Mobile Development documentation, [click here](https://github.com/Pupuk-In/Mobile-Development#readme)
